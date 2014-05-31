@@ -1,13 +1,13 @@
 {
   "name": "ndarray-bit",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ndarrays of bits",
   "main": "ndbits.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
-    "minimal-bit-array": "~0.0.0",
+    "minimal-bit-array": "~0.1.0",
     "ndarray": "~1.0.0"
   },
   "devDependencies": {
