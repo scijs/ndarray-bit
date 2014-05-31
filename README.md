@@ -2,6 +2,10 @@ ndarray-bit
 ===========
 An [ndarray](https://github.com/mikolalysenko/ndarray) of bits.
 
+[![testling badge](https://ci.testling.com/mikolalysenko/ndarray-bit.png)](https://ci.testling.com/mikolalysenko/ndarray-bit)
+
+[![build status](https://secure.travis-ci.org/mikolalysenko/ndarray-bit.png)](http://travis-ci.org/mikolalysenko/ndarray-bit)
+
 ## Example
 
 ```javascript
