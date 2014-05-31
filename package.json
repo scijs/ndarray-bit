@@ -1,20 +1,20 @@
 {
   "name": "ndarray-bit",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ndarrays of bits",
   "main": "ndbits.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
-    "minimal-bit-array": "~0.0.0",
-    "ndarray": "~1.0.0"
+    "minimal-bit-array": "^1.0.0",
+    "ndarray": "^1.0.15"
   },
   "devDependencies": {
-    "tape": "~1.0.4"
+    "tape": "^2.13.1"
   },
   "scripts": {
-    "test": "tap test/*.js"
+    "test": "tape test/*.js"
   },
   "repository": {
     "type": "git",
